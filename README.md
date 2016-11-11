@@ -1,0 +1,2 @@
+# sherlock
+Sherlock is a JavaScript debugging tool. It will allow you to watch function calls, parameters being passed to function calls, variable/state changes in real time as your app runs. This library is not meant for production, only for debugging and development. The main reasoning behind this idea, is to prevent having to sprinkle console.logs all over your code, to get a clear view of whats happening, and in what order.
